@@ -47,6 +47,16 @@ nav ul li a {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
+
+.profile-pic {
+        width: 10%;
+        height: 120px;
+        object-fit:cover;
+        border-radius: 50%;
+        border: 5px solid white;
+        margin: 0 auto;
+    }
+
 footer {
     text-align: center;
     color: white;
