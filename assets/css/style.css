@@ -57,7 +57,33 @@ nav ul li a {
         border: 5px solid white;
         margin: 0 auto;
     }
+   .square {
+        width: 200px;          
+        height: 150px;         
+        background-color: #f1f3f1; 
+        display: center;         
+        justify-content: center;  
+        align-items: center;      
+        color: rgb(17, 0, 0);         
+        font-size: 15px;       
+        text-align: left;    
+        padding: 1rem;
+        border-radius: 4rem;
+    }
 
+    .square1 {
+        width: 200px;          
+        height: 150px;         
+        background-color: #f1f3f1; 
+        display: center;         
+        justify-content: center;  
+        align-items: center;      
+        color: rgb(17, 0, 0);         
+        font-size: 15px;       
+        text-align: left;    
+        padding: 1rem;
+        border-radius: 4rem;
+    }
 }
 
 footer {
