@@ -58,32 +58,30 @@ nav ul li a {
         margin: 0 auto;
         
     }
-   .square {
-        width: 200px;          
-        height: 150px;         
-        background-color: #f1f3f1; 
-        display: center;         
-        justify-content: center;  
-        align-items: center;      
-        color: rgb(17, 0, 0);         
-        font-size: 15px;       
-        text-align: left;    
-        padding: 1rem;
-        border-radius: 4rem;
-    }
 
-    .square1 {
-        width: 200px;          
-        height: 150px;         
+
+      .center-section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50vh;
+        text-align: left;
+    }
+    .container {
+        width: 190px;                   
         background-color: #f1f3f1; 
-        display: center;         
-        justify-content: center;  
-        align-items: center;      
+        display: flex;         
+        justify-content: center;     
         color: rgb(17, 0, 0);         
         font-size: 15px;       
-        text-align: left;    
-        padding: 1rem;
-        border-radius: 4rem;
+         
+        
+    }
+    .box {
+       background-color: #f1f3f1;
+       padding: 1.4rem;
+       border-radius: 4rem;
+       
     }
 }
 
