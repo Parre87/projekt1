@@ -39,6 +39,8 @@ nav ul li a {
     padding: 1rem;
     font-size: 1.2rem;
     line-height: 1.5rem;
+
+    
 }
 
 .content {
@@ -56,11 +58,9 @@ nav ul li a {
         border-radius: 50%;
         border: 5px solid white;
         margin: 0 auto;
-        
     }
 
-
-      .center-section {
+    .center-section {
         display: flex;
         justify-content: center;
         align-items: center;
@@ -83,6 +83,8 @@ nav ul li a {
        border-radius: 4rem;
        
     }
+
+  
 }
 
 footer {
@@ -131,9 +133,3 @@ footer p {
     .paragraph-panel {
         padding: 0.2rem;
     }
-}
-
-
-
-
-      
