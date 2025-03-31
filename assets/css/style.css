@@ -7,7 +7,7 @@ body {
     background-size: cover;
     background-position:center; 
     background-repeat: repeat; 
-    height: 100vh; <!--This is used to set the height of the website-->
+    height: 100vh; 
 
 }
 header {
@@ -59,33 +59,9 @@ nav ul li a {
         border: 5px solid white;
         margin: 0 auto;
     }
-
-    .center-section {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 50vh;
-        text-align: left;
-    }
-    .container {
-        width: 190px;                   
-        background-color: #f1f3f1; 
-        display: flex;         
-        justify-content: center;     
-        color: rgb(17, 0, 0);         
-        font-size: 15px;       
-         
-        
-    }
-    .box {
-       background-color: #f1f3f1;
-       padding: 1.4rem;
-       border-radius: 4rem;
-       
-    }
-
-  
-}
+    
+      
+}    
 
 footer {
     text-align: center;
@@ -161,7 +137,7 @@ footer p {
     width: 50%;
     padding: 10px;
     margin-top: 5px;
-    border: 1px solid white
+    border: 1px solid white;
     border-radius: 5px;
     font-size: 16px;
 }
@@ -170,13 +146,13 @@ footer p {
     width: 50%;
     padding: 20px;
     margin-top: 15px;
-    border: 1px solid white
+    border: 1px solid white;
     border-radius: 5px;
     font-size: 15px;
 }
 
 .contact-form input:focus {
-    border-color: blue
+    border-color: blue;
     outline: none;
     box-shadow: 0 
 }
@@ -185,7 +161,7 @@ footer p {
 .contact-form button {
     width: 80%;
     padding: 10px;
-    background-color: blue
+    background-color: blue;
     color: white;
     border: none;
     border-radius: 15px;
