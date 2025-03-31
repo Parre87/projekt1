@@ -136,15 +136,16 @@ footer p {
 }
 
 .contact-form {
-    max-width: 400px;
+    max-width: 300px;
     width: 90%;
     margin: 0 auto;
     margin: 50px auto;
     padding: 20px;
     background-color: #f9f9f9;
     border-radius: 30px;
-    box-shadow: 0 
+    background: rgba(255, 255, 255, 0.8);
     font-family: Arial, sans-serif;
+    
 }
 
 
@@ -165,6 +166,14 @@ footer p {
     font-size: 16px;
 }
 
+.contact-form textarea {
+    width: 80%;
+    padding: 20px;
+    margin-top: 15px;
+    border: 1px solid white
+    border-radius: 5px;
+    font-size: 15px;
+}
 
 .contact-form input:focus {
     border-color: blue
