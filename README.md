@@ -32,4 +32,4 @@ that is see trough.
     - Under the information about the purpose of the fictitious company Raja Tech comes a video that is muted and in loop.
     - The video is from https://www.storyblocks.com/video/stock/
       
-![https://github.com/Parre87/projekt1/blob/main/assets/images/Video.png)
+![Video[https://github.com/Parre87/projekt1/blob/main/assets/images/Video.png)
