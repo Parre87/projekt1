@@ -14,4 +14,6 @@ The users targeted with this website are employers, recruiters and also the web-
 
 - At the top of the page is the navigation bar with displays fictional company Raja Tech as title. The top of the page is also linked to the two other pages "About us" and "Reach me".
 - The background color is in a dark grey color (rgba 51, 51, 51, 0.8), the menu items are well contrasted and have a responsive design.
+  
+![Nav bar]()
 
