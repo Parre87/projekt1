@@ -18,7 +18,7 @@ The users targeted with this website are employers, recruiters and also the web-
   
 ![Nav bar](https://github.com/Parre87/projekt1/blob/main/assets/images/Nav%20bar.png)
 
-- __Hire Full-Stack section__
+- __Hire Full-Stack developers section__
 
     - Under the navigation menu comes a section with information about the purpose of the fictitious company Raja Tech.
     - The section has the title "Hire Full-Stack developers students" and overlays the image with a see-trough white colour.
