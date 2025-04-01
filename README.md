@@ -5,3 +5,11 @@ My [Portfolio Website](https://github.com/Parre87/projekt1) The purpose of the w
 The users targeted with this website are employers, recruiters and also the web-development community.
 
 ![Responsive Mockup](https://github.com/Parre87/projekt1/blob/main/assets/images/Responsive%20mockup.png)
+
+## Features:
+
+### Existing features:
+
+- __Navigation Bar__
+
+
