@@ -25,11 +25,11 @@ The users targeted with this website are employers, recruiters and also the web-
 that is see trough.
 - The section provides the user with a taste of the website's style and shows a preview of what the remaining pages will look like.
 
-![Welcome](https://github.com/Parre87/projekt1/blob/main/assets/images/Section.png)
+![Hire-section](https://github.com/Parre87/projekt1/blob/main/assets/images/Section.png)
 
 - __Video-section__
 
     - Under the information about the purpose of the fictitious company Raja Tech comes a video that is muted and in loop.
     - The video is from https://www.storyblocks.com/video/stock/
       
-![Video[https://github.com/Parre87/projekt1/blob/main/assets/images/Video.png)
+![Video](https://github.com/Parre87/projekt1/blob/main/assets/images/Video.png)
