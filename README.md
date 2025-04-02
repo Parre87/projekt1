@@ -42,5 +42,15 @@ The users targeted with this website are employers, recruiters and also the web-
     - The footer is identical in layout to the navigation bar to make the page more consistent.
     - There's a dark grey see trough background and all the icons for social network are in original colours.
     - All links open a new tab when clicked. At the bottom of the footer is a CSS validator link.
+    - The footer is included in all three pages in the same place on the pages.
 
 ![Footer](https://github.com/Parre87/projekt1/blob/main/assets/images/Footer.png)
+
+- __About us__
+
+    - Under the navigation bar there is a section titled "Get to know your future employees". There, the employees are 
+      presented with pictures and information about their skills-set and background. At the moment, there is only one person 
+      available to hire.
+    
+
+![About us]()
