@@ -36,8 +36,8 @@ that is see trough.
 
 - __Footer__
 
-    - The footer style is similar to the navigation bar, to make the website consistent.
-    - There's a dark grey background and all the icons for social network are in white color to be visible.
-    - All links open a new tab when clicked.
+    - The footer is identical in layout to the navigation bar to make the page more consistent.
+    - There's a dark grey see trough background and all the icons for social network are in original colours.
+    - All links open a new tab when clicked. At the bottom of the footer is a CSS validator link.
 
-![Footer]()
+![Footer](https://github.com/Parre87/projekt1/blob/main/assets/images/Footer.png)
