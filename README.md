@@ -59,7 +59,8 @@ The users targeted with this website are employers, recruiters and also the web-
 
 - __Rech us section__
 
-    - Under the navigation bar there is a section titled "Contact us to hire our developers". There, is information If you are interested in hiring one of the employees, you can fill out the contact form below.
+    - Under the navigation bar there is a section titled "Contact us to hire our developers". There, is information If you 
+      are interested in hiring one of the employees, you can fill out the contact form below.
     - The colour is white but also see trough, you can see the background picture. 
     
 
@@ -69,6 +70,22 @@ The users targeted with this website are employers, recruiters and also the web-
 
     - Under the navigation bar there there is a section with a contact form where you enter 
       your first and last name, email, and a box where you can leave a message.
-    - The colour is white but also see trough, you can see the background picture. 
+    - The colour is white but also see trough, you can see the background picture.
+      The Submit button is blue, but when the mouse pointer is there it turns light blue.
 
 ![About us](https://github.com/Parre87/projekt1/blob/main/assets/images/Contact%20form.png)
+
+
+### Other tools used:
+- The footer icons and were taken from **Iconfinder**, https://www.iconfinder.com/icons.
+
+### Features left to implement:
+
+The website and the fictitious company are in an early stage and what you see right now is just appearance. For example, the contact form does not work if you want to send a message, but the link to social media works.
+
+## Testing:
+
+- I've tested the website on Chrome, Firefox and Microsoft Edge. I also used Chrome developer tools to check responsiveness.
+- I have used a mobile and different devises to see how the website looks like on different screen sizes.
+- I have clicked all the buttons and forms to see if it works.
+- I confirmed that the Website and its functionnalities is working properly.
