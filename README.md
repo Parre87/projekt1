@@ -1,6 +1,6 @@
 # my project Raja Tech - Full-Stack Development Services
 ## my Website:
-My [Website](https://parre87.github.io/projekt1/) purpose was to create a fictional consulting company that offers its own employees to companies looking for competent full-stack developers. The website contains three pages "Home", "About us" and "Reach us". The content of "Home" is to present information about the services that the company can offer. The services are based on what Code Institute offers in its Web Development program. The "About us" page contains information about the web developer students and "Reach me" page contains information on how to reach the company via a contact form.
+My [Website](https://parre87.github.io/projekt1/) purpose was to create a fictional consulting company that offers its own student employees to companies looking for competent full-stack developers. The website contains three pages "Home", "About us" and "Reach us". The content of "Home" is to present information about the services that the company can offer. The services are based on what Code Institute offers in its Web Development program. The "About us" page contains information about the web developer students and "Reach me" page contains information on how to reach the company via a contact form.
 
 The users targeted with this website are employers, recruiters and also the web-development community.
 
