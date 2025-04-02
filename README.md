@@ -114,6 +114,8 @@ Document checking completed and no errors or warnings to show.
 
 ### Improvements:
 
+The distance from the navigation bar and section to the footer is uneven.
+This can be improved to make the visual more consistent.
 
 
 ## Deployment:
@@ -125,5 +127,10 @@ Document checking completed and no errors or warnings to show.
     - It will display a green check when it has been deployed correctly.
     - On Deployment section check the link for the deploid website.
 
-- The live link can be found here: 
+- The live link can be found here: https://parre87.github.io/projekt1/
+
+  ## Credits:
+  
+  ### Source code
+- The inspiration to the structure of this readme is from **https://github.com/SophieDufrane/PP1_My_Website/blob/main/README.md "Sophie's Portfolio Website" project**.
 
