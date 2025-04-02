@@ -46,11 +46,25 @@ The users targeted with this website are employers, recruiters and also the web-
 
 ![Footer](https://github.com/Parre87/projekt1/blob/main/assets/images/Footer.png)
 
-- __About us__
+- __About us section__
 
     - Under the navigation bar there is a section titled "Get to know your future employees". There, the employees are 
       presented with pictures and information about their skills-set and background. At the moment, there is only one person 
       available to hire.
     
 
-![About us]()
+![About us](https://github.com/Parre87/projekt1/blob/main/assets/images/About%20us.png)
+
+- __Rech us section__
+
+    - Under the navigation bar there is a section titled "Contact us to hire our developers". There, is information If you are interested in hiring one of the employees, you can fill out the contact form below.
+    
+
+![About us](https://github.com/Parre87/projekt1/blob/main/assets/images/Contact%20us.png)
+
+- __Contact form section__
+
+    - Under the navigation bar there there is a section with a contact form where you enter 
+      your first and last name, email, and a box where you can leave a message.
+
+![About us](https://github.com/Parre87/projekt1/blob/main/assets/images/Contact%20form.png)
