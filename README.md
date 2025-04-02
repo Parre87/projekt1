@@ -1,6 +1,6 @@
 # my project Raja Tech - Full-Stack Development Services
 ## my Website:
-My [Website](https://github.com/Parre87/projekt1) purpose was to create a fictional company that hires Fullstack students. The website contains three pages "Home", "About us" and "Reach us". The content of "Home" is to present information about the services that the company can offer. The services are based on what Code Institute offers in its Web Development program. The "About us" page contains information about the web developer students and "Reach me" page contains information on how to reach the company via a contact form.
+My [Website](https://github.com/Parre87/projekt1) purpose was to create a fictional consulting company that offers its own employees to companies looking for competent full-stack developers. The website contains three pages "Home", "About us" and "Reach us". The content of "Home" is to present information about the services that the company can offer. The services are based on what Code Institute offers in its Web Development program. The "About us" page contains information about the web developer students and "Reach me" page contains information on how to reach the company via a contact form.
 
 The users targeted with this website are employers, recruiters and also the web-development community.
 
@@ -33,3 +33,11 @@ that is see trough.
     - The video is from https://www.storyblocks.com/video/stock/
       
 ![Video](https://github.com/Parre87/projekt1/blob/main/assets/images/Video.png)
+
+- __Footer__
+
+    - The footer style is similar to the navigation bar, to make the website consistent.
+    - There's a dark grey background and all the icons for social network are in white color to be visible.
+    - All links open a new tab when clicked.
+
+![Footer]()
