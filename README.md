@@ -51,6 +51,8 @@ The users targeted with this website are employers, recruiters and also the web-
     - Under the navigation bar there is a section titled "Get to know your future employees". There, the employees are 
       presented with pictures and information about their skills-set and background. At the moment, there is only one person 
       available to hire.
+     - The colour is white but also see trough, you can see the background picture. 
+  
     
 
 ![About us](https://github.com/Parre87/projekt1/blob/main/assets/images/About%20us.png)
@@ -58,6 +60,7 @@ The users targeted with this website are employers, recruiters and also the web-
 - __Rech us section__
 
     - Under the navigation bar there is a section titled "Contact us to hire our developers". There, is information If you are interested in hiring one of the employees, you can fill out the contact form below.
+    - The colour is white but also see trough, you can see the background picture. 
     
 
 ![About us](https://github.com/Parre87/projekt1/blob/main/assets/images/Contact%20us.png)
@@ -66,5 +69,6 @@ The users targeted with this website are employers, recruiters and also the web-
 
     - Under the navigation bar there there is a section with a contact form where you enter 
       your first and last name, email, and a box where you can leave a message.
+    - The colour is white but also see trough, you can see the background picture. 
 
 ![About us](https://github.com/Parre87/projekt1/blob/main/assets/images/Contact%20form.png)
