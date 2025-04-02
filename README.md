@@ -89,3 +89,41 @@ The website and the fictitious company are in an early stage and what you see ri
 - I have used a mobile and different devises to see how the website looks like on different screen sizes.
 - I have clicked all the buttons and forms to see if it works.
 - I confirmed that the Website and its functionnalities is working properly.
+
+  ### Validator testing:
+
+- HTML
+Document checking completed and no errors or warnings to show.
+
+![Checkup HTML](https://github.com/Parre87/projekt1/blob/main/assets/images/HTML%20checker.png)
+
+- CSS
+  The results will be shown here.
+
+![Checkup CSS]()
+
+- Lighthouse
+    - Performance was the main issue, it is at 96%. The icon images elements do not have explicit width and height. This have
+      to be fixed to improve performance.
+    - Accessibility is at 92% on the "Home page". To fix the issue and improve the accessibility i need to touch targets 
+      that not have sufficient size or spacing.
+    - Best practices is 100%
+    - SEO is 100%
+
+![Checkup Lighthouse](https://github.com/Parre87/projekt1/blob/main/assets/images/Lighthouse.png)
+
+### Improvements:
+
+
+
+## Deployment:
+- The site was deployed to GitHub following the steps below:
+    - In the GitHub repository, navigate to the "Settings" tab.
+    - In the "Pages" menu from the "Source" dropdown list select "Deploy from a Branch".
+    - On the branch section select "Main" Branch and "Root" Folder.
+    - Then go to the "Code" tab and refresh.
+    - It will display a green check when it has been deployed correctly.
+    - On Deployment section check the link for the deploid website.
+
+- The live link can be found here: 
+
