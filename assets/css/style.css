@@ -8,7 +8,6 @@ body {
     background-position:center; 
     background-repeat: repeat; 
     height: 100vh; 
-
 }
 header {
     background: rgba(51, 51, 51, 0.8);
@@ -39,10 +38,7 @@ nav ul li a {
     padding: 1rem;
     font-size: 1.2rem;
     line-height: 1.5rem;
-
-    
 }
-
 .content {
     margin: 20px auto;
     background: rgba(255, 255, 255, 0.85);
@@ -50,27 +46,25 @@ nav ul li a {
     border-radius: 4rem;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
-
-    .profile-pic {
-        width: 10%;
-        height: 120px;
-        object-fit:cover;
-        border-radius: 50%;
-        border: 5px solid white;
-        margin: 0 auto;
-    }
-    
-      
 }    
-
+.profile-pic {
+    width: 10%;
+    height: 120px;
+    object-fit:cover;
+    border-radius: 50%;
+    border: 5px solid white;
+    margin: 0 auto;
+} 
 footer {
     text-align: center;
     color: white;
     margin-top: 80px;
     background: rgba(51, 51, 51, 0.8);
-    .white-link {color: white;}
     padding: 1rem;
     border-radius: 4rem;
+}
+.white-link {
+    color: white;
 }
 footer p {
     font-size: 15px;
@@ -91,7 +85,6 @@ footer p {
     display: block;
     margin: 0 auto;
     border-radius: 4rem;
-
 }
 @media (max-width: 401px) {
     body {
@@ -110,7 +103,6 @@ footer p {
         padding: 0.2rem;
     }
 }
-
 .contact-form {
     max-width: 300px;
     width: 90%;
@@ -121,18 +113,13 @@ footer p {
     border-radius: 30px;
     background: rgba(255, 255, 255, 0.8);
     font-family: Arial, sans-serif;
-    
 }
-
-
 .contact-form label {
     display: block;
     font-weight: bold;
     margin-top: 10px;
     color: black
 }
-
-
 .contact-form input {
     width: 50%;
     padding: 10px;
@@ -141,7 +128,6 @@ footer p {
     border-radius: 5px;
     font-size: 16px;
 }
-
 .contact-form textarea {
     width: 50%;
     padding: 20px;
@@ -150,14 +136,10 @@ footer p {
     border-radius: 5px;
     font-size: 15px;
 }
-
 .contact-form input:focus {
     border-color: blue;
     outline: none;
-    box-shadow: 0 
 }
-
-
 .contact-form button {
     width: 80%;
     padding: 10px;
@@ -169,7 +151,6 @@ footer p {
     margin-top: 15px;
     cursor: pointer;
 }
-
 .contact-form button:hover {
     background-color: lightskyblue
 }
