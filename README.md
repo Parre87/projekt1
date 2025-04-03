@@ -4,7 +4,7 @@ My [Website](https://parre87.github.io/projekt1/) purpose was to create a fictio
 
 The users targeted with this website are employers, recruiters and also the web-development community.
 
-![Responsive Mockup](https://github.com/Parre87/projekt1/blob/main/assets/images/Responsive%20mockup.png)
+![Responsive Mockup](https://github.com/Parre87/projekt1/blob/main/assets/images/responsivemockup.png)
 
 ## Features:
 
