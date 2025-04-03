@@ -93,7 +93,7 @@ The website and the fictitious company are in an early stage and what you see ri
   ### Validator testing:
 
 - HTML
-Document checking for "home" "about us" and "reach me" pages completed and no errors or warnings to show.
+   -Document checking for "home" "about us" and "reach me" pages completed and no errors or warnings to show.
 
 ![Checkup HTML](https://github.com/Parre87/projekt1/blob/main/assets/images/htmlchecker.png)
 
@@ -105,7 +105,7 @@ Document checking for "home" "about us" and "reach me" pages completed and no er
 
 - CSS
 
-CSS code checking completed and no errors or warnings to show.
+   -CSS code checking completed and no errors or warnings to show.
 
 ![Checkup CSS](https://github.com/Parre87/projekt1/blob/main/assets/images/cssvalidator.png)
 
