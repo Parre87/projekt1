@@ -119,11 +119,13 @@ The website and the fictitious company are in an early stage and what you see ri
     - SEO is 100%
 
 
+
 ![Checkup Lighthouse](https://github.com/Parre87/projekt1/blob/main/assets/images/lighthouse.png)
 
 
 - Web accessibility evaluation tool
     - It showed no error and no contrast errors.
+
 
 ![Wave](https://github.com/Parre87/projekt1/blob/main/assets/images/wave.png)
 
