@@ -18,7 +18,7 @@ The users targeted with this website are employers, recruiters and also the web-
       responsive design.
     - The navigation bar is see-trough and you can see the background picture from https://unsplash.com/. 
   
-![Nav bar](https://github.com/Parre87/projekt1/blob/main/assets/images/Nav%20bar.png)
+![Nav bar](https://github.com/Parre87/projekt1/blob/main/assets/images/navbar.png)
 
 - __Hire Full-Stack developers section__
 
@@ -28,14 +28,14 @@ The users targeted with this website are employers, recruiters and also the web-
     - The section provides the user with a taste of the website's style and shows a preview of what the remaining pages will 
       look like.
 
-![Hire-section](https://github.com/Parre87/projekt1/blob/main/assets/images/Section.png)
+![Hire-section](https://github.com/Parre87/projekt1/blob/main/assets/images/section.png)
 
 - __Video-section__
 
     - Under the information about the purpose of the fictitious company Raja Tech comes a video that is muted and in loop.
     - The video is from https://www.storyblocks.com/video/stock/
       
-![Video](https://github.com/Parre87/projekt1/blob/main/assets/images/Video.png)
+![Video](https://github.com/Parre87/projekt1/blob/main/assets/images/video.png)
 
 - __Footer__
 
@@ -44,7 +44,7 @@ The users targeted with this website are employers, recruiters and also the web-
     - All links open a new tab when clicked. At the bottom of the footer is a CSS validator link.
     - The footer is included in all three pages in the same place on the pages.
 
-![Footer](https://github.com/Parre87/projekt1/blob/main/assets/images/Footer.png)
+![Footer](https://github.com/Parre87/projekt1/blob/main/assets/images/footer.png)
 
 - __About us section__
 
@@ -55,7 +55,7 @@ The users targeted with this website are employers, recruiters and also the web-
   
     
 
-![About us](https://github.com/Parre87/projekt1/blob/main/assets/images/About%20us.png)
+![About us](https://github.com/Parre87/projekt1/blob/main/assets/images/aboutus.png)
 
 - __Rech us section__
 
@@ -64,7 +64,7 @@ The users targeted with this website are employers, recruiters and also the web-
     - The colour is white but also see trough, you can see the background picture. 
     
 
-![About us](https://github.com/Parre87/projekt1/blob/main/assets/images/Contact%20us.png)
+![About us](https://github.com/Parre87/projekt1/blob/main/assets/images/contactus.png)
 
 - __Contact form section__
 
@@ -73,7 +73,7 @@ The users targeted with this website are employers, recruiters and also the web-
     - The colour is white but also see trough, you can see the background picture.
       The Submit button is blue, but when the mouse pointer is there it turns light blue.
 
-![About us](https://github.com/Parre87/projekt1/blob/main/assets/images/Contact%20form.png)
+![About us](https://github.com/Parre87/projekt1/blob/main/assets/images/contactform.png)
 
 
 ### Other tools used:
@@ -95,7 +95,7 @@ The website and the fictitious company are in an early stage and what you see ri
 - HTML
 Document checking completed and no errors or warnings to show.
 
-![Checkup HTML](https://github.com/Parre87/projekt1/blob/main/assets/images/HTML%20checker.png)
+![Checkup HTML](https://github.com/Parre87/projekt1/blob/main/assets/images/htmlchecker.png)
 
 - CSS
   The results will be shown here.
@@ -110,7 +110,7 @@ Document checking completed and no errors or warnings to show.
     - Best practices is 100%
     - SEO is 100%
 
-![Checkup Lighthouse](https://github.com/Parre87/projekt1/blob/main/assets/images/Lighthouse.png)
+![Checkup Lighthouse](https://github.com/Parre87/projekt1/blob/main/assets/images/lighthouse.png)
 
 ### Improvements:
 
