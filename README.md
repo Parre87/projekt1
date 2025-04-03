@@ -142,6 +142,8 @@ This can be improved to make the visual more consistent.
     - Then go to the "Code" tab and refresh.
     - It will display a green check when it has been deployed correctly.
     - On Deployment section check the link for the deploid website.
+    - To add files to the repository you have to write in the command line gitt add and
+      git commit -m. This is to committed" git push   
 
 - The live link can be found here: https://parre87.github.io/projekt1/
 
@@ -152,4 +154,6 @@ This can be improved to make the visual more consistent.
 
 - Media
 The pictures are from **unsplash** and **storyblocks**. Both are linked in the readme above, the link is linked next to its images.
+
+- Mentor Spencer Barriball who helped me with tips, guidance and finding errors during the project.
 
