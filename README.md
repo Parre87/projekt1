@@ -98,7 +98,7 @@ Document checking for "home" "about us" and "reach me" pages completed and no er
 ![Checkup HTML](https://github.com/Parre87/projekt1/blob/main/assets/images/htmlchecker.png)
 
 
-![Checkup HTML](https://github.com/Parre87/projekt1/blob/main/assets/images/aboutpagehtmlchecker.pngg)
+![Checkup HTML](https://github.com/Parre87/projekt1/blob/main/assets/images/aboutpagehtmlchecker.png)
 
 
 ![Checkup HTML](https://github.com/Parre87/projekt1/blob/main/assets/images/htmlcheckerreachmepage.png)
@@ -149,4 +149,7 @@ This can be improved to make the visual more consistent.
   
   ### Source code
 - The inspiration to the structure of this readme is from **https://github.com/SophieDufrane/PP1_My_Website/blob/main/README.md "Sophie's Portfolio Website" project**.
+
+- Media
+The pictures are from **unsplash** and **storyblocks**. Both are linked in the readme above, the link is linked next to its images.
 
