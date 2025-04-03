@@ -145,7 +145,8 @@ This can be improved to make the visual more consistent.
     - It will display a green check when it has been deployed correctly.
     - On Deployment section check the link for the deploid website.
     - To add files to the repository you have to write in the command line gitt add and
-      git commit -m. This is to committed" git push   
+      git commit -m. This is to committed" git push
+    - To add new files use " ." - and To add a single file use the pathway to the file eg .index.html or assets/css/style.css 
 
 - The live link can be found here: https://parre87.github.io/projekt1/
 
