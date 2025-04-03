@@ -111,9 +111,9 @@ The website and the fictitious company are in an early stage and what you see ri
 
 
 - Lighthouse
-    - Performance was the main issue, it is at 96%. The icon images elements do not have explicit width and height. This have
+    - Performance was the main issue initial, it is at 96%. The icon images elements do not have explicit width and height. This have
       to be fixed to improve performance.
-    - Accessibility is at 92% on the "Home page". To fix the issue and improve the accessibility i need to touch targets 
+    - Accessibility is at 92% on the "Home page". To fix the issue and improve the accessibility i need to touch targets
       that not have sufficient size or spacing.
     - Best practices is 100%
     - SEO is 100%
@@ -121,6 +121,19 @@ The website and the fictitious company are in an early stage and what you see ri
 
 
 ![Checkup Lighthouse](https://github.com/Parre87/projekt1/blob/main/assets/images/lighthouse.png)
+
+
+- Lighthouse after fixing issues mention above
+   - The icon images elements has good explicit width and height. This fix improved the performance to 100 in score.
+   - Accessibility improved after increased the target size and spacing with the interactive elements (links and forms inputs).
+     This fix improved the accessibility to 100 in score.
+
+
+![Checkup Lighthouse](https://github.com/Parre87/projekt1/blob/main/assets/images/lighthouse2.png)
+
+
+
+
 
 
 - Web accessibility evaluation tool
