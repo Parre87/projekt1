@@ -87,7 +87,8 @@ The website and the fictitious company are in an early stage and what you see ri
 
 - I've tested the website on Chrome, Firefox and Microsoft Edge. I also used Chrome developer tools to check responsiveness.
 - I have used a mobile and different devices to see how the website looks like on different screen sizes.
-- I have clicked all the buttons and forms to see if it works.
+- I have clicked all the buttons and forms to see if it works, everything works but the link to the CSS validator at the bottom of the footer,
+  when you click on the link, the message "Some Headers, mandatory for this resource, are missing Referer" is shown in external page.
 - I confirmed that the Website and its functionnalities is working properly.
 
   ### Validator testing:
