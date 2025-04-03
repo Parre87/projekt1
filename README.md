@@ -105,7 +105,7 @@ The website and the fictitious company are in an early stage and what you see ri
 
 - CSS
 
-   -CSS code checking completed and no errors or warnings to show.
+   - CSS code checking completed and no errors or warnings to show.
 
 ![Checkup CSS](https://github.com/Parre87/projekt1/blob/main/assets/images/cssvalidator.png)
 
