@@ -93,14 +93,19 @@ The website and the fictitious company are in an early stage and what you see ri
   ### Validator testing:
 
 - HTML
-Document checking completed and no errors or warnings to show.
+Document checking for "home" "about us" and "reach me" pages completed and no errors or warnings to show.
+
+![Checkup HTML](https://github.com/Parre87/projekt1/blob/main/assets/images/htmlchecker.png)
+
+![Checkup HTML](https://github.com/Parre87/projekt1/blob/main/assets/images/htmlchecker.png)
 
 ![Checkup HTML](https://github.com/Parre87/projekt1/blob/main/assets/images/htmlchecker.png)
 
 - CSS
-  The results will be shown here.
 
-![Checkup CSS]()
+css code checking completed and no errors or warnings to show.
+  ![Checkup CSS](https://github.com/Parre87/projekt1/blob/main/assets/images/cssvalidator.png)
+
 
 - Lighthouse
     - Performance was the main issue, it is at 96%. The icon images elements do not have explicit width and height. This have
@@ -111,6 +116,11 @@ Document checking completed and no errors or warnings to show.
     - SEO is 100%
 
 ![Checkup Lighthouse](https://github.com/Parre87/projekt1/blob/main/assets/images/lighthouse.png)
+
+- Web accessibility evaluation tool
+    - It showed no error and no contrast errors.
+
+![Wave](https://github.com/Parre87/projekt1/blob/main/assets/images/wave.png)
 
 ### Improvements:
 
