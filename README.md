@@ -118,6 +118,13 @@ As a [client or user] I want to [seek information] so that [the user or client g
 - External links: target="_blank" + rel="noopener noreferrer".
 - Video muted with controls enabled.
 
+## Wireframe Overview
+
+Here’s an overview of the main pages in desktop layout:
+
+![Wireframe overview](https://github.com/Parre87/projekt1/blob/main/assets/images/wireframes.png)
+
+
 
 ## Other tools used:
 - The footer icons and were taken from **Iconfinder**, https://www.iconfinder.com/icons.
