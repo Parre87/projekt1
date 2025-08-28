@@ -93,6 +93,32 @@ As a [client or user] I want to [seek information] so that [the user or client g
 - Acceptance criteria: Social links open in new tabs with accessible alt text.
 
 
+## Design Choises
+
+- Color Palette & Contrast
+- Background: Black #000000
+- Content panels: White glass effect rgba(255,255,255,0.85)
+- Primary text: White #FFFFFF on dark
+- Accent color: Blue #1E40FF
+- Meets WCAG 2.1 AA contrast guidelines.
+- Typography
+- Font: Arial, sans-serif
+- Base size: 16px
+- Navigation: 18–20px
+- Headings: ≥ 32px, responsive
+- Line height: ≥ 1.5 for readability
+- Imagery Guidelines
+- Icons in PNG with consistent size.
+- Profile picture circular, object-fit: cover.
+- Responsively scaled via CSS.
+- Accessibility
+- Semantic elements: header, nav, section, footer.
+- Descriptive alt attributes.
+- Focus states visible on inputs and buttons.
+- External links: target="_blank" + rel="noopener noreferrer".
+- Video muted with controls enabled.
+
+
 ### Other tools used:
 - The footer icons and were taken from **Iconfinder**, https://www.iconfinder.com/icons.
 
