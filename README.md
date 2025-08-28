@@ -230,6 +230,16 @@ This can be improved to make the visual more consistent.
 
 - The live link can be found here: https://parre87.github.io/projekt1/
 
+### Version Control
+
+-Commit Message Convention
+-Follows Conventional Commits:
+-feat: – new feature
+-fix: – bug fix
+-style: – formatting
+-docs: – documentation
+-refactor: – restructure without changing functionality
+
   ## Credits:
   
   ### Source code
