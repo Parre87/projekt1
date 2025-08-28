@@ -119,14 +119,14 @@ As a [client or user] I want to [seek information] so that [the user or client g
 - Video muted with controls enabled.
 
 
-### Other tools used:
+## Other tools used:
 - The footer icons and were taken from **Iconfinder**, https://www.iconfinder.com/icons.
 
-### Features left to implement:
+## Features left to implement:
 
 The website and the fictitious company are in an early stage and what you see right now is just appearance. For example, the contact form does not work if you want to send a message, but the link to social media works.
 
-# Known Bugs & Limitations
+## Known Bugs & Limitations
 
 - Contact form does not connect to backend (static only).
 - Video available in MP4 only, no WebM fallback.
@@ -139,7 +139,7 @@ The website and the fictitious company are in an early stage and what you see ri
   when you click on the link, the message "Some Headers, mandatory for this resource, are missing Referer" is shown in external page.
 - I confirmed that the Website and its functionnalities is working properly.
 
-# Responsiveness
+## Responsiveness
 
 Checked at: 320px, 375px, 414px, 768px, 1024px, 1440px.
 - Layout reflows correctly.
