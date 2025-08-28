@@ -239,13 +239,13 @@ This can be improved to make the visual more consistent.
 
 ### Version Control
 
--Commit Message Convention
--Follows Conventional Commits:
--feat: – new feature
--fix: – bug fix
--style: – formatting
--docs: – documentation
--refactor: – restructure without changing functionality
+- Commit Message Convention
+- Follows Conventional Commits:
+- feat: – new feature
+- fix: – bug fix
+- style: – formatting
+- docs: – documentation
+- refactor: – restructure without changing functionality
 
   ## Credits:
   
