@@ -75,6 +75,23 @@ The users targeted with this website are employers, recruiters and also the web-
 
 ![About us](https://github.com/Parre87/projekt1/blob/main/assets/images/contactform.png)
 
+## User stories:
+
+As a [client or user] I want to [seek information] so that [the user or client get information about the services].
+
+- Visitor – CTA
+- As a potential client, I want to quickly understand the offering so that I can decide if it fits my needs.
+- Acceptance criteria: Headline and CTA visible without scrolling on desktop.
+- Visitor – Learn more
+- As a decision-maker, I want to see skills and profile so that I can evaluate relevance.
+- Acceptance criteria: Profile picture and skills listed clearly.
+- Visitor – Contact
+- As an interested user, I want to send a message so that I can get a response.
+- Acceptance criteria: Required fields must be validated before submission.
+- Visitor – Social proof
+- As a user, I want to follow on social media so that I can learn more.
+- Acceptance criteria: Social links open in new tabs with accessible alt text.
+
 
 ### Other tools used:
 - The footer icons and were taken from **Iconfinder**, https://www.iconfinder.com/icons.
