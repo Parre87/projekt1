@@ -1,157 +1,229 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0px;
-    padding: 30px;
-    background-color: #000;
-    background-image: url('../images/codebg.avif'); 
-    background-size: cover;
-    background-position:center; 
-    background-repeat: repeat; 
-    height: 100vh; 
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 30px;
+  background-color: #000;
+  background-image: url('../images/codebg.avif'); 
+  background-size: cover;
+  background-position: center; 
+  background-repeat: repeat; 
+  height: 100vh; 
 }
+
 header {
-    background: rgba(51, 51, 51, 0.8);
-    color: rgb(208, 208, 241);
-    padding: 1rem;
-    text-align: center;
-    border-radius: 4rem;
+  background: rgba(51, 51, 51, 0.8);
+  color: rgb(208, 208, 241);
+  padding: 1rem;
+  text-align: center;
+  border-radius: 4rem;
 }
+
 h1 {
-    text-align: center;
-    color: white;
+  text-align: center;
+  color: white;
 }
-nav ul { /* unordered list */
-    list-style: none; /* removes the bullet points, keeping the list structure intact*/
-    padding: 0;
-    text-align: center;
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
 }
+
 nav ul li {
-    display: inline; /* makes items appear in a row */
-    margin: 0 15px;
+  display: inline;
+  margin: 0 15px;
 }
+
 nav ul li a {
-    color: white;
-    text-decoration: none; /* removes the underline */
-    font-size: 20px;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
 }
+
 .paragraph-panel {
-    padding: 1rem;
-    font-size: 1.2rem;
-    line-height: 1.5rem;
+  padding: 1rem;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
 }
+
 .content {
-    margin: 20px auto;
-    background: rgba(255, 255, 255, 0.85);
-    padding: 20px;
-    border-radius: 4rem;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
+  margin: 20px auto;
+  background: rgba(255, 255, 255, 0.85);
+  padding: 20px;
+  border-radius: 4rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
 }    
+
 .profile-pic {
-    width: 10%;
-    height: 120px;
-    object-fit:cover;
-    border-radius: 50%;
-    border: 5px solid white;
-    margin: 0 auto;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 5px solid white;
+  margin: 20px auto;
+  display: block;
 } 
+
 footer {
-    text-align: center;
-    color: white;
-    margin-top: 80px;
-    background: rgba(51, 51, 51, 0.8);
-    padding: 1rem;
-    border-radius: 4rem;
+  text-align: center;
+  color: white;
+  margin-top: 80px;
+  background: rgba(51, 51, 51, 0.9);
+  padding: 2rem;
+  border-radius: 4rem;
 }
-.white-link {
-    color: white;
-}
+
 footer p {
-    font-size: 15px;
-    line-height: 1.5;
-    color:white;
-    margin: 0;
-    padding: 0.4rem;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.6;
+  margin: 0.5rem 0;
 }
-.video-container{
-    position: relative;
-    width: 100%;
-    max-width: 800px;
-    margin: auto;   
+
+.white-link {
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
 }
+
+.video-container {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  margin: auto;   
+}
+
 .video-container video {
-    width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    border-radius: 4rem;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 4rem;
 }
-@media (max-width: 401px) {
-    body {
-        padding: 0.4rem;
-    }
-    h1 {
-        font-size: 1.5rem;
-    }
-    nav ul li a {
-        font-size: 1rem;
-    }
-    nav ul li {
-        margin: 0 0.5rem;
-    }
-    .paragraph-panel {
-        padding: 0.2rem;
-    }
-}
+
 .contact-form {
-    max-width: 300px;
-    width: 90%;
-    margin: 0 auto;
-    margin: 50px auto;
-    padding: 20px;
-    background-color: #f9f9f9;
-    border-radius: 30px;
-    background: rgba(255, 255, 255, 0.8);
-    font-family: Arial, sans-serif;
+  max-width: 600px;
+  width: 90%;
+  margin: 50px auto;
+  padding: 30px;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 30px;
 }
+
 .contact-form label {
-    display: block;
-    font-weight: bold;
-    margin-top: 10px;
-    color: black
+  display: block;
+  font-weight: bold;
+  margin-top: 10px;
+  color: black;
 }
-.contact-form input {
-    width: 50%;
-    padding: 10px;
-    margin-top: 5px;
-    border: 1px solid white;
-    border-radius: 5px;
-    font-size: 16px;
-}
+
+.contact-form input,
 .contact-form textarea {
-    width: 50%;
-    padding: 20px;
-    margin-top: 15px;
-    border: 1px solid white;
-    border-radius: 5px;
-    font-size: 15px;
+  width: 90%;
+  padding: 12px;
+  margin-top: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
 }
-.contact-form input:focus {
-    border-color: blue;
-    outline: none;
+
+.contact-form textarea {
+  resize: vertical;
 }
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-color: blue;
+  outline: none;
+}
+
 .contact-form button {
-    width: 80%;
-    padding: 10px;
-    background-color: blue;
-    color: white;
-    border: none;
-    border-radius: 15px;
-    font-size: 15px;
-    margin-top: 15px;
-    cursor: pointer;
+  width: 95%;
+  padding: 15px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  font-size: 16px;
+  margin-top: 15px;
+  cursor: pointer;
 }
+
 .contact-form button:hover {
-    background-color: lightskyblue
+  background-color: lightskyblue;
+}
+
+/* === Social Links (Spacing & Alignment) === */
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* default spacing between icons */
+  margin-top: 15px;
+}
+
+.social-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-links a img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  transition: transform 0.2s ease-in-out;
+}
+
+.social-links a img:hover {
+  transform: scale(1.15);
+}
+
+/* Bring LinkedIn closer to Facebook */
+.social-links a:first-child {
+  margin-right: -8px; /* reduces space after LinkedIn */
+}
+
+/* === Responsive tweaks === */
+@media (max-width: 600px) {
+  .profile-pic {
+    width: 120px;
+    height: 120px;
+  }
+  h1 {
+    font-size: 1.5rem;
+  }
+  nav ul li a {
+    font-size: 1rem;
+  }
+  .contact-form {
+    padding: 20px;
+  }
+  /* Smaller social icons & tighter spacing on mobile */
+  .social-links {
+    gap: 14px;
+  }
+  .social-links a img {
+    width: 30px;
+    height: 30px;
+  }
+  .social-links a:first-child {
+    margin-right: -5px; /* less overlap on mobile */
+  }
+}
+
+@media (max-width: 360px) {
+  .social-links {
+    gap: 10px;
+  }
+  .social-links a img {
+    width: 26px;
+    height: 26px;
+  }
+  .social-links a:first-child {
+    margin-right: -3px;
+  }
 }
       
+
