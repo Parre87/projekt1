@@ -1,6 +1,7 @@
 All notable changes to this project will be documented in this file.
 
 [1.0.1] - 2025-08-27
+
 ### Added
 
 - Expanded footer area with larger text and stronger visibility.
@@ -19,7 +20,8 @@ All notable changes to this project will be documented in this file.
 - Validator link previously causing error — now absolute URL.
 
 
-  [1.0.0] - 2025-08-20
+[1.0.0] - 2025-08-20
+
 ### Added
 
 - Initial release with 3 main pages:
