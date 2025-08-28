@@ -48,7 +48,7 @@ The users targeted with this website are employers, recruiters and also the web-
 
 - __About us section__
 
-    - Under the navigation bar there is a section titled "Get to know your future employees". There, the employees are 
+    - Under the navigation bar there is a section titled "Vacant developers". There, the employees are 
       presented with pictures and information about their skills-set and background. At the moment, there is only one person 
       available to hire.
      - The colour is white but also see trough, you can see the background picture. 
