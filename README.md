@@ -126,6 +126,11 @@ As a [client or user] I want to [seek information] so that [the user or client g
 
 The website and the fictitious company are in an early stage and what you see right now is just appearance. For example, the contact form does not work if you want to send a message, but the link to social media works.
 
+# Known Bugs & Limitations
+
+- Contact form does not connect to backend (static only).
+- Video available in MP4 only, no WebM fallback.
+
 ## Testing:
 
 - I've tested the website on Chrome, Firefox and Microsoft Edge. I also used Chrome developer tools to check responsiveness.
@@ -133,6 +138,24 @@ The website and the fictitious company are in an early stage and what you see ri
 - I have clicked all the buttons and forms to see if it works, everything works but the link to the CSS validator at the bottom of the footer,
   when you click on the link, the message "Some Headers, mandatory for this resource, are missing Referer" is shown in external page.
 - I confirmed that the Website and its functionnalities is working properly.
+
+# Responsiveness
+
+Checked at: 320px, 375px, 414px, 768px, 1024px, 1440px.
+- Layout reflows correctly.
+- No horizontal scrolling.
+- Text remains readable.
+
+# Manual Test Cases
+
+| ID      | Feature                        | Expected                    | Steps                     | Result |
+| ------- | ------------------------------ | --------------------------- | ------------------------- | ------ |
+| NAV-01  | Navigation                     | About link loads about.html | Click "About us"          | ✅ Pass |
+| EXT-01  | External links                 | Open in new tab             | Click LinkedIn icon       | ✅ Pass |
+| FORM-01 | Required fields                | Cannot submit empty form    | Submit without filling in | ✅ Pass |
+| IMG-01  | Profile picture responsiveness | Resizes on mobile           | Check about.html at 375px | ✅ Pass |
+| A11Y-01 | Focus states                   | Inputs highlight on tab     | Tab through form          | ✅ Pass |
+
 
   ### Validator testing:
 
